@@ -3,7 +3,7 @@ import Link from 'next/link';
 const StudentInfo = () => {
     return (
         <div>
-            <h1>Braeden Given</h1>
+            <h1>BraedenGiven</h1>
             <h2>Course Section: CPRG-306A</h2>
             <p>
             <Link href="https://github.com/xBraeden">GitHub Link</Link>
